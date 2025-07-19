@@ -34,7 +34,7 @@ It will generate a binary file for the OS you're currently running, and save it 
 
 ## Author
 
-* **Gregory Fryns** - *Initial work* - [email](gregory.fryns@similarweb.com)
+* **Lior Friedman** - *Initial work* - [email](gregory.fryns@similarweb.com)
 
 ## License
 
